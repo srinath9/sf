@@ -1,0 +1,20 @@
+HTTrack3.48-19+htsswf+htsjava launched on Tue, 09 Sep 2014 15:39:34 at http://2015.springfest.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P 144.16.192.217:8080 http://2015.springfest.in/ -O1 "C:\Users\srinath\Documents\springfest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:39:34	Warning: 	Cache: damaged cache, trying to repair
+15:39:34	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+15:39:34	Warning: 	Cache: error trying to open the cache
+15:46:05	Error: 	"Not Found" (404) at link 2015.springfest.in/www.facebook.com/sanket.sahu.007 (from 2015.springfest.in/)
+15:46:05	Error: 	"Not Found" (404) at link 2015.springfest.in/COPRGTL.ttf (from 2015.springfest.in/intial.css)
+15:46:05	Error: 	"Not Found" (404) at link 2015.springfest.in/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/sdk.js)
+15:46:05	Error: 	"Not Found" (404) at link 2015.springfest.in/restserver.php (from connect.facebook.net/en_US/sdk.js)
+15:46:05	Error: 	"Not Found" (404) at link 2015.springfest.in/dialog/ (from connect.facebook.net/en_US/sdk.js)
+15:46:05	Error: 	"Bad Request" (400) at link 2015.springfest.in/%s/profile.php?id=%s (from connect.facebook.net/en_US/sdk.js)
+
+HTTrack Website Copier/3.48-19 mirror complete in 6 minutes 31 seconds : 53 links scanned, 46 files written (9666631 bytes overall) [9583531 bytes received at 24510 bytes/sec], 157937 bytes transferred using HTTP compression in 1 files, ratio 32%, 1.6 requests per connection
+(6 errors, 3 warnings, 0 messages)
