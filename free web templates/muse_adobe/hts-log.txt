@@ -1,0 +1,56 @@
+HTTrack3.48-19+htsswf+htsjava launched on Thu, 11 Sep 2014 01:13:30 at http://muse.adobe.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P 144.16.192.217:8080 http://muse.adobe.com/ -O1 "C:\Users\srinath\Google Drive\free web templates\muse_adobe" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:15:10	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/museutils.js (from muse.adobe.com/)
+01:15:10	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/jquery.scrolleffects.js (from muse.adobe.com/)
+01:15:10	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/jquery.watch.js (from muse.adobe.com/)
+01:15:10	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/jquery.musemenu.js (from muse.adobe.com/)
+01:15:10	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/webpro.js (from muse.adobe.com/)
+01:15:10	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/musewpslideshow.js (from muse.adobe.com/)
+01:15:10	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/jquery.museoverlay.js (from muse.adobe.com/)
+01:15:10	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/touchswipe.js (from muse.adobe.com/)
+01:18:57	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/phone/museutils.js (from muse.adobe.com/phone/index.html)
+01:18:57	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/phone/jquery.musemenu.js (from muse.adobe.com/phone/index.html)
+01:18:57	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/phone/webpro.js (from muse.adobe.com/phone/index.html)
+01:18:57	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/phone/musewpdisclosure.js (from muse.adobe.com/phone/index.html)
+01:18:57	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/phone/jquery.watch.js (from muse.adobe.com/phone/index.html)
+01:18:57	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/phone/musewpslideshow.js (from muse.adobe.com/phone/index.html)
+01:18:57	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/phone/jquery.museoverlay.js (from muse.adobe.com/phone/index.html)
+01:18:57	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/phone/touchswipe.js (from muse.adobe.com/phone/index.html)
+01:19:09	Warning: 	Retry after error -4 (No data (connection closed)) at link muse.adobe.com/images/starz133x141.png (from muse.adobe.com/phone/index.html)
+01:32:34	Warning: 	Retry after error -4 (No data (connection closed)) at link muse.adobe.com/images/440-muse-creative-book_2x.jpg (from muse.adobe.com/resources.html)
+01:32:36	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/musewpdisclosure.js (from muse.adobe.com/what-s-new-2013-nov.html)
+01:34:15	Warning: 	Retry after error -4 (No data (connection closed)) at link muse.adobe.com/images/motion-crop-u14879.png (from muse.adobe.com/what-s-new-2013-nov.html)
+01:34:15	Error: 	"Not Found" (404) at link muse.adobe.com/exchange.html (from muse.adobe.com/what-s-new-2013-nov.html)
+01:42:21	Warning: 	Retry after error -2 (Receive Time Out) at link muse.adobe.com/assets/katies-cafe-bulding-assets-v3.zip (from muse.adobe.com/building-your-first-website.html)
+01:42:21	Error: 	"Not Found" (404) at link muse.adobe.com/site_of_the_day.html (from muse.adobe.com/phone/site-of-the-day.html)
+01:52:17	Warning: 	file not stored in cache due to bogus state (broken size, expected 689514 got 549139): muse.adobe.com/exchange-uploads/6903754_496933_andrew-prototypes-2.png
+02:07:36	Warning: 	Retry after error -2 (Receive Time Out) at link muse.adobe.com/assets/katies-cafe-bulding-assets-v3.zip (from muse.adobe.com/building-your-first-website.html)
+02:07:36	Error: 	"ERROR: The file requested could not be found." (404) at link muse.adobe.com/css/images/arrows-next.png (from muse.adobe.com/css/fall2013/phone/site-of-the-day.css?4155222895)
+02:09:00	Warning: 	Retry after error -4 (No data (connection closed)) at link muse.adobe.com/exchange-uploads/QooQee_aMusing_02.png (from muse.adobe.com/exchange-library/amusing-template-and-library)
+02:09:00	Warning: 	Retry after error -4 (Incorrect length (549139 Bytes, 689514 expected)) at link muse.adobe.com/exchange-uploads/6903754_496933_andrew-prototypes-2.png (from muse.adobe.com/exchange-library/andrew-prototypes)
+02:10:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 605436 got 496419): muse.adobe.com/exchange-uploads/FacebookFollow_02.png
+02:23:25	Warning: 	file not stored in cache due to bogus state (broken size, expected 1736629 got 494505): muse.adobe.com/exchange-uploads/7150533_496519_My-First-Gallery.mulib
+02:27:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 770503 got 684291): muse.adobe.com/6854607_496934_goldberg-menu-horizontal-overlay-03.png
+02:27:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 14745600 got 4311196): muse.adobe.com/exchange-uploads/7214982_496519_incognitodoe.muse
+02:37:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 410918 got 283719): muse.adobe.com/exchange-uploads/7338838_496933_Screen Shot 2014-02-12 at 8.08.46 PM.png
+02:39:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 839161 got 767763): muse.adobe.com/exchange-uploads/6889780_496933_musegrid-slider-02.png
+02:41:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 775069 got 668799): muse.adobe.com/exchange-uploads/Social_preview_2.png
+02:50:49	Warning: 	Retry after error -4 (No data (connection closed)) at link muse.adobe.com/images/Site-Day/sumhit2014_01.jpg?Action=thumbnail&Width=220&Height=144 (from muse.adobe.com/Default.aspx?PageID=15422188&A=WebApp&CCID=25094&Page=6&Items=16)
+02:52:45	Error: 	"Receive Time Out" (-2) after 2 retries at link muse.adobe.com/assets/katies-cafe-bulding-assets-v3.zip (from muse.adobe.com/building-your-first-website.html)
+02:53:35	Warning: 	Retry after error -4 (Incorrect length (496419 Bytes, 605436 expected)) at link muse.adobe.com/exchange-uploads/FacebookFollow_02.png (from muse.adobe.com/exchange-library/example-mucow)
+02:53:35	Warning: 	Retry after error -4 (Incorrect length (4311196 Bytes, 14745600 expected)) at link muse.adobe.com/exchange-uploads/7214982_496519_incognitodoe.muse (from muse.adobe.com/exchange-library/incognito-design-of-elephant)
+02:53:36	Warning: 	Retry after error -4 (Incorrect length (494505 Bytes, 1736629 expected)) at link muse.adobe.com/exchange-uploads/7150533_496519_My-First-Gallery.mulib (from muse.adobe.com/exchange-library/kodak-carrosel-gallery)
+02:53:52	Warning: 	Retry after error -4 (Incorrect length (684291 Bytes, 770503 expected)) at link muse.adobe.com/6854607_496934_goldberg-menu-horizontal-overlay-03.png (from muse.adobe.com/exchange-library/menu-horizontal-overlay)
+02:58:32	Warning: 	Retry after error -4 (Incorrect length (283719 Bytes, 410918 expected)) at link muse.adobe.com/exchange-uploads/7338838_496933_Screen Shot 2014-02-12 at 8.08.46 PM.png (from muse.adobe.com/exchange-library/productbox-with-lightbox-amp-tooltips)
+02:58:32	Warning: 	Retry after error -4 (Incorrect length (767763 Bytes, 839161 expected)) at link muse.adobe.com/exchange-uploads/6889780_496933_musegrid-slider-02.png (from muse.adobe.com/exchange-library/slideshow-composition-widget)
+02:58:32	Warning: 	Retry after error -4 (Incorrect length (668799 Bytes, 775069 expected)) at link muse.adobe.com/exchange-uploads/Social_preview_2.png (from muse.adobe.com/exchange-library/social-media-icon-set-library)
+02:59:00	Warning: 	Retry after error -4 (No data (connection closed)) at link muse.adobe.com/images/Site-Day/quienmatoabambi_01.jpg?Action=thumbnail&Width=220&Height=144 (from muse.adobe.com/Default.aspx?PageID=15422188&A=WebApp&CCID=25094&Page=9&Items=16)
+
+HTTrack Website Copier/3.48-19 mirror complete in 1 hours 54 minutes 45 seconds : 1629 links scanned, 1591 files written (124115639 bytes overall) [159812973 bytes received at 23211 bytes/sec], 8958899 bytes transferred using HTTP compression in 386 files, ratio 26%, 7.0 requests per connection
+(21 errors, 24 warnings, 0 messages)

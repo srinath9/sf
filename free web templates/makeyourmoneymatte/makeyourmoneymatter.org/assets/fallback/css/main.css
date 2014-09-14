@@ -1,0 +1,46 @@
+body {
+    background-image: url("../images/bg_pattern.jpg");
+}
+
+div#main {
+    width: 640px;
+    margin: 0 auto;
+}
+
+div#content {
+    margin-top: -3px;
+    width: 100%;
+}
+
+div#content .flag {
+    width: 159px;
+    height: 178px;
+    margin: 0 auto;
+    background-image: url("../images/assets.png");
+    background-repeat: no-repeat;
+}
+
+div#content .desc {
+    margin: 60px auto;
+    width: 480px;
+    font-family: Georgia, serif;
+    font-size: 24px;
+    color: #666666;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    line-height: 30px;
+}
+
+div#content .desc a {
+    color: #959038;
+    text-decoration: none;
+}
+
+div#content .draws {
+    width: 480px;
+    height: 176px;
+    margin: 0 auto;
+    background-image: url("../images/assets.png");
+    background-position: 0 -200px;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,29 @@
+HTTrack3.48-19+htsswf+htsjava launched on Wed, 10 Sep 2014 20:39:59 at http://astera-led.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P 144.16.192.217:8080 http://astera-led.com/ -O1 "C:\Users\srinath\Google Drive\free web templates\astera-led" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:40:11	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 163556): connect.facebook.net/en_US/all.js
+20:46:33	Warning: 	Retry after error -4 (Connect Error) at link https://platform.twitter.com/widgets.js (from astera-led.com/)
+20:46:34	Warning: 	Retry after error -4 (Connect Error) at link https://apis.google.com/js/plusone.js (from astera-led.com/)
+20:46:34	Error: 	"Not Found" (404) at link astera-led.com/fonts/ostrich-dashed-webfont.eot (from astera-led.com/style.css)
+20:46:34	Error: 	"Not Found" (404) at link astera-led.com/fonts/ostrich-dashed-webfont.eot? (from astera-led.com/style.css)
+20:46:34	Error: 	"Not Found" (404) at link astera-led.com/fonts/ostrich-dashed-webfont.woff (from astera-led.com/style.css)
+20:46:34	Error: 	"Not Found" (404) at link astera-led.com/fonts/ostrich-dashed-webfont.ttf (from astera-led.com/style.css)
+20:46:34	Error: 	"Not Found" (404) at link astera-led.com/fonts/ostrich-dashed-webfont.svg (from astera-led.com/style.css)
+21:34:15	Error: 	"Not Found" (404) at link astera-led.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/all.js)
+21:34:15	Error: 	"Not Found" (404) at link astera-led.com/restserver.php (from connect.facebook.net/en_US/all.js)
+21:34:15	Error: 	"Not Found" (404) at link astera-led.com/dialog/ (from connect.facebook.net/en_US/all.js)
+21:34:15	Warning: 	Retry after error -4 (Connect Error) at link https://platform.twitter.com/widgets.js (from astera-led.com/)
+21:34:16	Warning: 	Retry after error -4 (Connect Error) at link https://apis.google.com/js/plusone.js (from astera-led.com/)
+21:37:34	Error: 	"Multiple Choices" (300) at link astera-led.com/Downloads/Manuals/AC4 manual v3.4.12.pdf (from astera-led.com/downloads.php)
+21:37:34	Warning: 	Retry after error -4 (No data (connection closed)) at link astera-led.com/images/arch/SNOG_Shephard_Bush/1_s.jpg (from astera-led.com/archbush.php)
+21:37:34	Error: 	"Connect Error" (-4) after 2 retries at link https://platform.twitter.com/widgets.js (from astera-led.com/)
+21:37:34	Error: 	"Connect Error" (-4) after 2 retries at link https://apis.google.com/js/plusone.js (from astera-led.com/)
+21:37:48	Error: 	"Not Found" (404) at link astera-led.com/contact_us.html (from astera-led.com/downloads.php?lang=en)
+
+HTTrack Website Copier/3.48-19 mirror complete in 57 minutes 57 seconds : 631 links scanned, 613 files written (86513901 bytes overall) [86609903 bytes received at 24909 bytes/sec], 163556 bytes transferred using HTTP compression in 1 files, ratio 32%, 1.4 requests per connection
+(12 errors, 6 warnings, 0 messages)

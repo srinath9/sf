@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:21:25	331/331	---M--	403	error ('Forbidden')	text/html	date:Wed,%2010%20Sep%202014%2019:53:15%20GMT	http://www.kaipoche.co/robots.txt		(from )
+01:21:25	321/321	---M--	403	error ('Forbidden')	text/html	date:Wed,%2010%20Sep%202014%2019:53:16%20GMT	http://www.kaipoche.co/	C:/Users/srinath/Google%20Drive/free%20web%20templates/kaipoche/www.kaipoche.co/index.html	(from )

@@ -1,0 +1,260 @@
+strong { 
+	font-weight: 700; 
+}
+
+em { 
+	font-style: italic; 
+}
+
+strong em, 
+em strong { 
+	font-weight: 700; 
+	font-style: italic; 
+}
+
+#page-content a, 
+#u4299-4 a { 
+	text-decoration: none; 
+}
+
+#browse-tags li, 
+#page-content a:link, 
+#u4299-4 a:link, 
+#page-content a:visited, 
+#u4299-4 a:visited { 
+	color: #525252; 
+}
+
+#browse-tags li:hover, 
+#page-content a:hover, 
+#u4299-4 a:hover { 
+	color: #70A30F; 
+	cursor: pointer; 
+}
+
+#page-content a:active,
+#u4299-4 a:active { 
+	color: #000; 
+}
+
+#page-content { 
+	width: 700px; 
+}
+
+.required { 
+	color: #ff0000; 
+	margin-top: 20px;  
+}
+
+.required:first-child {
+	margin-top: 0;
+}
+
+#page-content p,
+#page-content label,
+#page-content input,
+#page-content textarea {
+    font-family: source-sans-pro, sans-serif;
+    font-size: 16px; 
+	line-height: 20px; 
+	display: block;
+}
+
+#page-content label { 
+	padding: 0; 
+	margin: 20px 0 5px 0; 
+	text-indent: 0; 
+}
+
+
+#page-content input, 
+#page-content textarea { 
+	border: 1px solid #ccc; 
+	border-radius: 4px; 
+	padding: 10px; 
+	width: 450px; 
+}
+
+#page-content h2 { 
+	padding-top: 40px; 
+    font-family: source-sans-pro, sans-serif;
+    display: block;
+}
+
+#page-content h2.form-heading { 
+	padding: 40px 0 10px; 
+	font-weight: 700; 
+	font-size: 16px; 
+	line-height: 20px; 
+	border-bottom: 1px solid #ddd; 
+}
+
+#page-content p.submit-button { 
+	clear: both; 
+	float: none; 
+	padding-bottom: 40px; 
+}
+
+#page-content ul.webform + p.submit-button {
+	padding-top: 40px;
+}
+
+#page-content input.submit {
+    width: 220px;
+    min-height: 31px;
+    padding-top: 9px;
+    text-align: center;
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 22px;
+    font-family: source-sans-pro, sans-serif;
+    font-weight: 400;
+    position: relative;
+    background: #70A30F url("../../images/fall2013/composition-button-220x40.jpg") no-repeat left top; 
+}
+
+#page-content .P---Sub.list-bullet li { 
+	list-style-type: disc; 
+	margin: 0 0 10px 40px; 
+}
+
+#page-content .checkbox-heading { 
+	padding-top: 20px; 
+}
+
+#page-content .checkbox label, 
+#page-content .checkbox input { 
+	display: inline; 
+	width: auto; 
+	margin-right: 5px; 
+}
+
+#page-content input[type=file] { 
+	border: 0; 
+	padding: 0; 
+	width: auto; 
+	background: transparent; 
+}
+
+#page-content .number input { 
+	width: 100px; 
+}
+
+/* form text sections */
+
+.terms,
+#page-content .item-info input, #page-content .item-info textarea { 
+	box-sizing: border-box; 
+	width: 100%; 
+	clear: both;
+}
+
+#page-content .terms h2, 
+.terms .P---Sub { 
+	margin-bottom: 20px; 
+}
+
+#page-content .terms h2 { 
+	font-weight: 300; 
+}
+
+/* exchange form tag input */
+
+#page-content input.ui-widget-content.ui-autocomplete-input { 
+	border: 0; 
+	width: auto; 
+	padding: 0; 
+}
+
+#page-content #tags-input-list { 
+	font-size: 16px; 
+}
+
+#tags-input-list.ui-corner-all { 
+	border-radius: 4px; 
+	border-color: #ccc; 
+	padding: 10px 10px 5px 10px; 
+}
+
+ul.tagit li { 
+	margin-bottom: 0; 
+}
+            
+/* exchange form screenshots */
+
+#page-content .screenshot-file, 
+#page-content .caption { 
+	float: left; 
+	width: auto; 
+}
+
+#page-content .screenshot-file label, 
+#page-content .caption label { 
+	margin-top: 10px; 
+}
+
+#page-content .screenshot-row.first { border-top: 1px solid #ddd; }
+
+#page-content .screenshot-row { clear: both; padding: 20px 0; border-bottom: 1px solid #ddd; float: left; width: 100%; box-sizing: content-box; }
+
+
+/* sidebar */
+ 
+#u4299-4 p,            
+#u4299-4 form { 
+	margin-bottom: 20px; 
+}
+
+#u4299-4 p:last-child,
+#u4299-4 p.sidebar-heading {
+	margin-bottom: 0;
+}
+            
+#u4299-4:hover p { 
+	padding: 0; 
+	color: #000; 
+}
+
+#u4299-4, 
+#u4299-4:hover { 
+	border-top: 0; 
+	width: 180px;
+    background-color: #FFFFFF;
+   	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+    padding: 20px; 
+}
+
+.sidebar input { 
+	font-size: 16px; 
+	line-height: 25px; 
+	font-family: source-sans-pro, sans-serif; 
+	width: 145px; 
+	min-height: 25px; 
+	border-color: #CCCCCC; 
+	-moz-border-radius: 4px; 
+	-webkit-border-radius: 4px; 
+	-khtml-border-radius: 4px; 
+	border-radius: 4px; 
+	padding-left: 30px; 
+	padding-top: 5px; 
+	color: #363636; 
+	background: #ddd url("../../images/fall2013/search-icon-30x30.png") no-repeat left top; 
+}
+
+#browse-tags li {
+	line-height: 1.25em;
+	display: inline-block;
+	margin-right: 5px;
+}
+
+li.tag-size-0 { font-size: 16px; }
+li.tag-size-1 { font-size: 18px; }
+li.tag-size-2 { font-size: 20px; }
+li.tag-size-3 { font-size: 22px; }
+li.tag-size-4 { font-size: 24px; }
+li.tag-size-5 { font-size: 26px; }
+li.tag-size-6 { font-size: 28px; }
+li.tag-size-7 { font-size: 30px; }

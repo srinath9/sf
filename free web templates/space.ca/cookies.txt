@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fashiontelevision.com	TRUE	/	FALSE	1999999999	BIGipServerHTS-DMZ-VARNISH-POOL-01	2776369674.49431.0000
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:Kharagpur:22.3333:87.3333:v4
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:Kharagpur:22.3333:87.3333:v4
+en.wikipedia.org	TRUE	/	FALSE	1999999999	enwikiSession	796469416328d6711c4d5bc1cd46cae1
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	b972ede7262e4cb773bc01f2fd292699
+

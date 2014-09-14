@@ -1,0 +1,27 @@
+HTTrack3.48-19+htsswf+htsjava launched on Thu, 11 Sep 2014 01:14:08 at http://www.fluger.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P 144.16.192.217:8080 http://www.fluger.com/ -O1 "C:\Users\srinath\Google Drive\free web templates\fluger" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:18:31	Error: 	"Not Found" (404) at link www.fluger.com/img/fluger-screen.jpg (from www.fluger.com/)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/rotator.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/vertical-2.jpg (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/mac.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/menu/menu.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/menu/line.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/horison-menu/dot.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/horison-menu/dot-current.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/horison-menu/horison.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/horison-menu/title.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/cat-title-1.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/gallery-2-line.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/gallery-3-title.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/gallery-3-line.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/all-works.png (from www.fluger.com/css/style.php)
+01:23:32	Error: 	"Not Found" (404) at link www.fluger.com/img/arrrow.png (from www.fluger.com/css/style.php)
+
+HTTrack Website Copier/3.48-19 mirror complete in 9 minutes 24 seconds : 182 links scanned, 165 files written (14525245 bytes overall) [14291840 bytes received at 25340 bytes/sec], 1005839 bytes transferred using HTTP compression in 20 files, ratio 48%, 3.0 requests per connection
+(16 errors, 0 warnings, 0 messages)

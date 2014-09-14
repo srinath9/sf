@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:43:15	331/331	---M--	403	error ('Forbidden')	text/html	date:Tue,%2009%20Sep%202014%2010:15:01%20GMT	http://www.gonzaloperez.ws/robots.txt		(from )
+15:43:16	321/321	---M--	403	error ('Forbidden')	text/html	date:Tue,%2009%20Sep%202014%2010:15:02%20GMT	http://www.gonzaloperez.ws/	C:/Users/srinath/Google%20Drive/free%20web%20templates/.gonzaloperez/www.gonzaloperez.ws/index.html	(from )

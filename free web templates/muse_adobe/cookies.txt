@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+muse.adobe.com	TRUE	/	FALSE	1999999999	visitorDeviceClass	desktop
+muse.adobe.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	vgl1e245o0jrzv45ixb2soq5
+muse.adobe.com	TRUE	/	FALSE	1999999999	ANONID_FS188494	10.09.2014 19:46:15.280
+muse.adobe.com	TRUE	/	FALSE	1999999999	ANONID188494	ccdc86b6-508d-457c-86fe-a685e6302b08
+muse.adobe.com	TRUE	/	FALSE	1999999999	VISID188494	a307128c-0772-409c-8eca-52bd0b540496#muse.adobe.com#10.09.2014 19:46:15.280
+

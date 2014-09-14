@@ -1,0 +1,28 @@
+#first-time {
+  display: none;
+}
+
+.block ul
+{
+  padding-left: 16px;
+}
+
+ul.secondary-menu
+{
+  float: right;
+}
+
+.block-search
+{
+  margin-bottom: 20px;
+}
+
+div.region-menu-inner
+{
+  margin-left: -6px;
+}
+
+.block-powered-by, .block-system-powered-by
+{
+  display: none;
+}

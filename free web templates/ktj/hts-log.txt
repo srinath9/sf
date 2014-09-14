@@ -1,0 +1,98 @@
+HTTrack3.48-19+htsswf+htsjava launched on Wed, 10 Sep 2014 00:19:04 at http://ktj.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P 144.16.192.217:8080 http://ktj.in/ -O1 "C:\Users\srinath\Google Drive\free web templates\ktj" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:45:11	Warning: 	Retry after error -4 (Connect Error) at link https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/995726_355628404563901_734572174_n.png (from ktj.in/)
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/4
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/6
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/7
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/8
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/9
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/10
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/11
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/12
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/14
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/15
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/16
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/17
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/18
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/23
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/41
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/42
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/43
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/44
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/45
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/46
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/47
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/48
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/50
+00:45:33	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/49
+00:45:57	Warning: 	Retry after error -4 (Connect Error) at link https://lh3.googleusercontent.com/-UEn3rCkCIKc/UoEZUitcnBI/AAAAAAAAB9Q/d1Fi_OI-YgE/w288-h97-no/boeing.png (from ktj.in/)
+00:45:57	Warning: 	Retry after error -4 (Connect Error) at link https://lh6.googleusercontent.com/-l-9_6w-e8ds/Up7IGjd9euI/AAAAAAAACMQ/1K6oqhbgCvY/w180-h208-no/ge+logo.png (from ktj.in/)
+00:45:57	Warning: 	Retry after error -4 (Connect Error) at link https://lh3.googleusercontent.com/-Kop3fhfG18s/UpsGGgnpp_I/AAAAAAAACLY/rrx4xkanCIc/w1044-h77-no/UHG_Logo_3.png (from ktj.in/)
+00:45:58	Error: 	"NOT FOUND" (404) at link ktj.in/www.airbus.com/? (from ktj.in/)
+00:45:58	Warning: 	Retry after error -4 (Connect Error) at link https://lh5.googleusercontent.com/-q920euEc9Fg/UnJLzpnlLeI/AAAAAAAAB0Y/qC6VKIAYWJs/w422-h255-no/lead_logo_blank.gif (from ktj.in/)
+00:45:58	Warning: 	Retry after error -4 (Connect Error) at link https://lh4.googleusercontent.com/-LMGg_QOXK_A/UoOxwWwqL-I/AAAAAAAACDc/4fmNypdZ97s/w265-h175-no/incose.png (from ktj.in/)
+00:45:58	Warning: 	Retry after error -4 (Connect Error) at link https://lh5.googleusercontent.com/-XouUabVptRE/UoTSb9406cI/AAAAAAAACFc/BejA2sYxehU/w1044-h522-no/BARCAP.png (from ktj.in/)
+00:45:59	Warning: 	Retry after error -4 (Connect Error) at link https://lh3.googleusercontent.com/-oniw-rD-cDE/UoIsok-oYeI/AAAAAAAACBQ/yKsBFhso96Q/w551-h246-no/ARRKAY.png (from ktj.in/)
+00:45:59	Error: 	"NOT FOUND" (404) at link ktj.in/excalibur/ (from ktj.in/)
+00:45:59	Error: 	"NOT FOUND" (404) at link ktj.in/cryptex/ (from ktj.in/)
+00:45:59	Error: 	"NOT FOUND" (404) at link ktj.in/mindsport/ (from ktj.in/)
+00:45:59	Error: 	"NOT FOUND" (404) at link ktj.in/www.ipsacademy.org/? (from ktj.in/)
+00:46:01	Error: 	"Not Found" (404) at link www.ccrane.com/images/medium/magnifying-glass.jpg (from ktj.in/)
+00:46:01	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/156
+00:46:01	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/157
+00:46:01	Error: 	"NOT FOUND" (404) at link ktj.in/home (from ktj.in/)
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/158
+00:46:06	Warning: 	Retry after error -4 (Connect Error) at link https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/995726_355628404563901_734572174_n.png (from ktj.in/)
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/css/Armata-Regular.ttf
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/100
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/102
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/103
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/104
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/105
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/107
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/109
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/110
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/111
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/113
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/117
+00:46:06	Error: 	"Not Found" (404) at link ktj.in/static/images/loading.gif (from ktj.in/static/css/style.css)
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/css/Walkway_UltraBold.ttf
+00:46:06	Error: 	"Not Found" (404) at link ktj.in/static/css/css/mplus-1c.ttf (from ktj.in/static/css/style.css)
+00:46:06	Warning: 	File not parsed, looks like binary: ktj.in/static/newimages/118
+00:46:06	Error: 	"Not Found" (404) at link ktj.in/static/css/static/img/megashows/back.jpg (from ktj.in/static/css/workshop.css+exhibitions.css.pagespeed.cc.UZqtUmk38i.css)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/static/images/1.png (from ktj.in/events/woodstock)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/static/images/2.png (from ktj.in/events/woodstock)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/static/images/3.png (from ktj.in/events/woodstock)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/static/images/4.png (from ktj.in/events/woodstock)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/static/images/5.png (from ktj.in/events/woodstock)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/static/images/6.png (from ktj.in/events/woodstock)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/static/images/7.png (from ktj.in/events/woodstock)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/www.airbus.com/? (from ktj.in/events/woodstock)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/www.ipsacademy.org/? (from ktj.in/events/woodstock)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/static/img/megashows/circle1.png (from ktj.in/events/woodstock)
+00:46:06	Error: 	"NOT FOUND" (404) at link ktj.in/events/static/img/megashows/tri1.png (from ktj.in/events/woodstock)
+00:46:06	Warning: 	Retry after error -4 (Connect Error) at link https://lh3.googleusercontent.com/-UEn3rCkCIKc/UoEZUitcnBI/AAAAAAAAB9Q/d1Fi_OI-YgE/w288-h97-no/boeing.png (from ktj.in/)
+00:46:06	Warning: 	Retry after error -4 (Connect Error) at link https://lh6.googleusercontent.com/-l-9_6w-e8ds/Up7IGjd9euI/AAAAAAAACMQ/1K6oqhbgCvY/w180-h208-no/ge+logo.png (from ktj.in/)
+00:46:07	Warning: 	Retry after error -4 (Connect Error) at link https://lh3.googleusercontent.com/-Kop3fhfG18s/UpsGGgnpp_I/AAAAAAAACLY/rrx4xkanCIc/w1044-h77-no/UHG_Logo_3.png (from ktj.in/)
+00:46:07	Warning: 	Retry after error -4 (Connect Error) at link https://lh5.googleusercontent.com/-q920euEc9Fg/UnJLzpnlLeI/AAAAAAAAB0Y/qC6VKIAYWJs/w422-h255-no/lead_logo_blank.gif (from ktj.in/)
+00:46:07	Warning: 	Retry after error -4 (Connect Error) at link https://lh4.googleusercontent.com/-LMGg_QOXK_A/UoOxwWwqL-I/AAAAAAAACDc/4fmNypdZ97s/w265-h175-no/incose.png (from ktj.in/)
+00:46:07	Warning: 	Retry after error -4 (Connect Error) at link https://lh5.googleusercontent.com/-XouUabVptRE/UoTSb9406cI/AAAAAAAACFc/BejA2sYxehU/w1044-h522-no/BARCAP.png (from ktj.in/)
+00:46:08	Warning: 	Retry after error -4 (Connect Error) at link https://lh3.googleusercontent.com/-oniw-rD-cDE/UoIsok-oYeI/AAAAAAAACBQ/yKsBFhso96Q/w551-h246-no/ARRKAY.png (from ktj.in/)
+00:46:08	Error: 	"NOT FOUND" (404) at link ktj.in/spons (from ktj.in/sponsors)
+00:46:08	Error: 	"Connect Error" (-4) after 2 retries at link https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/995726_355628404563901_734572174_n.png (from ktj.in/)
+00:46:08	Error: 	"Connect Error" (-4) after 2 retries at link https://lh3.googleusercontent.com/-UEn3rCkCIKc/UoEZUitcnBI/AAAAAAAAB9Q/d1Fi_OI-YgE/w288-h97-no/boeing.png (from ktj.in/)
+00:46:08	Error: 	"Connect Error" (-4) after 2 retries at link https://lh6.googleusercontent.com/-l-9_6w-e8ds/Up7IGjd9euI/AAAAAAAACMQ/1K6oqhbgCvY/w180-h208-no/ge+logo.png (from ktj.in/)
+00:46:08	Error: 	"Connect Error" (-4) after 2 retries at link https://lh3.googleusercontent.com/-Kop3fhfG18s/UpsGGgnpp_I/AAAAAAAACLY/rrx4xkanCIc/w1044-h77-no/UHG_Logo_3.png (from ktj.in/)
+00:46:08	Error: 	"Connect Error" (-4) after 2 retries at link https://lh5.googleusercontent.com/-q920euEc9Fg/UnJLzpnlLeI/AAAAAAAAB0Y/qC6VKIAYWJs/w422-h255-no/lead_logo_blank.gif (from ktj.in/)
+00:46:08	Error: 	"Connect Error" (-4) after 2 retries at link https://lh4.googleusercontent.com/-LMGg_QOXK_A/UoOxwWwqL-I/AAAAAAAACDc/4fmNypdZ97s/w265-h175-no/incose.png (from ktj.in/)
+00:46:08	Error: 	"Connect Error" (-4) after 2 retries at link https://lh5.googleusercontent.com/-XouUabVptRE/UoTSb9406cI/AAAAAAAACFc/BejA2sYxehU/w1044-h522-no/BARCAP.png (from ktj.in/)
+00:46:09	Error: 	"Connect Error" (-4) after 2 retries at link https://lh3.googleusercontent.com/-oniw-rD-cDE/UoIsok-oYeI/AAAAAAAACBQ/yKsBFhso96Q/w551-h246-no/ARRKAY.png (from ktj.in/)
+
+HTTrack Website Copier/3.48-19 mirror complete in 27 minutes 5 seconds : 268 links scanned, 221 files written (55135723 bytes overall) [41397111 bytes received at 25475 bytes/sec], 17605486 bytes transferred using HTTP compression in 94 files, ratio 21%, 1.7 requests per connection
+(30 errors, 57 warnings, 0 messages)

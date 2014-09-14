@@ -1,0 +1,14 @@
+HTTrack3.48-19+htsswf+htsjava launched on Thu, 11 Sep 2014 01:15:44 at http://www.nguma.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P 144.16.192.218:8080 http://www.nguma.com/ -O1 "C:\Users\srinath\Google Drive\free web templates\nguma" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:16:12	Error: 	"Not Found " (404) at link www.nguma.com/play (from www.nguma.com/)
+01:16:12	Error: 	"Not Found " (404) at link www.nguma.com/img/glyphicons-halflings.png (from www.nguma.com/assets/application-7a84019c72e5e7bbfee69a792dedba90.css)
+01:16:12	Error: 	"Not Found " (404) at link www.nguma.com/img/glyphicons-halflings-white.png (from www.nguma.com/assets/application-7a84019c72e5e7bbfee69a792dedba90.css)
+
+HTTrack Website Copier/3.48-19 mirror complete in 28 seconds : 22 links scanned, 18 files written (727843 bytes overall) [734930 bytes received at 26247 bytes/sec], 5.5 requests per connection
+(3 errors, 0 warnings, 0 messages)

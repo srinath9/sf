@@ -1,0 +1,43 @@
+HTTrack3.48-19+htsswf+htsjava launched on Tue, 09 Sep 2014 21:09:34 at http://www.ironman3.com.au/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P 144.16.192.217:8080 http://www.ironman3.com.au/ -O1 "C:\Users\srinath\Google Drive\free web templates\iron man" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:09:37	Warning: 	Note: due to www.ironman3.com.au remote robots.txt rules, links beginning with these path will be forbidden: /includes/, /misc/, /modules/, /profiles/, /scripts/, /themes/, /CHANGELOG.txt, /cron.php, /INSTALL.mysql.txt, /INSTALL.pgsql.txt, /INSTALL.sqlite.txt, /install.php, /INSTALL.txt, /LICENSE.txt, /MAINTAINERS.txt, /update.php, /UPGRADE.txt, /xmlrpc.php, /admin/, /comment/reply/, /filter/tips/, /node/add/, /search/, /user/register/, /user/password/, /user/login/, /user/logout/, /?q=admin/, /?q=comment/reply/, /?q=filter/tips/, /?q=node/add/, /?q=search/, /?q=user/password/, /?q=user/register/, /?q=user/login/, /?q=user/logout/ (see in the options to disable this)
+21:32:10	Warning: 	Retry after error -4 (Connect Error) at link https://apis.google.com/js/plusone.js (from www.ironman3.com.au/)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/%23 (from www.ironman3.com.au/)
+21:41:22	Error: 	"Forbidden" (403) at link www.ironman3.com.au/user/logout (from www.ironman3.com.au/)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/sites/default/modules/custom/im3codes/third_party/fancybox/fancybox_sprite@2x.png (from www.ironman3.com.au/sites/default/modules/custom/im3codes/third_party/fancybox/jquery.fancybox.css?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/sites/default/modules/custom/im3codes/third_party/fancybox/fancybox_loading@2x.gif (from www.ironman3.com.au/sites/default/modules/custom/im3codes/third_party/fancybox/jquery.fancybox.css?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/sites/default/modules/custom/im3codes/img/buttons/coming-soon.png (from www.ironman3.com.au/sites/default/modules/custom/im3codes/css/im3codes.css?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/sites/default/modules/custom/im3codes/img/buttons/play-now.png (from www.ironman3.com.au/sites/default/modules/custom/im3codes/css/im3codes.css?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/sites/all/modules/contrib/kaltura/plugins/kaltura_playlist/up.png (from www.ironman3.com.au/sites/all/modules/contrib/kaltura/style/kaltura.css?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/sites/all/modules/contrib/kaltura/plugins/kaltura_playlist/down.png (from www.ironman3.com.au/sites/all/modules/contrib/kaltura/style/kaltura.css?msoyx0)
+21:41:22	Warning: 	Retry after error -4 (Connect Error) at link https://apis.google.com/js/plusone.js (from www.ironman3.com.au/)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/mousedown.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/click.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/mouseover.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/dragstart.jsp selectstart.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/mousemove.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/mouseup.jsp mouseleave.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/mouseup.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/dragstart.jsp selectstart.jsp mousemove.jsp mouseup.jsp mouseleave.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/focus.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/keydown.jsp keypress.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/keydown.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/keypress.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/touchstart.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/touchmove.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/touchend.jsp (from www.ironman3.com.au/sites/all/themes/ironmansat/js/jquery.jscrollpane.min.js?msoyx0)
+21:41:22	Error: 	"Not Found" (404) at link www.ironman3.com.au/sites/all/themes/ironmansat/img/buttons/flyout-submit-short.png (from www.ironman3.com.au/sites/all/themes/ironmansat/css/main.css)
+21:41:38	Error: 	"Not Found" (404) at link www.ironman3.com.au/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_GB/all.js)
+21:41:38	Error: 	"Not Found" (404) at link www.ironman3.com.au/restserver.php (from connect.facebook.net/en_GB/all.js)
+21:41:38	Error: 	"Not Found" (404) at link www.ironman3.com.au/dialog/ (from connect.facebook.net/en_GB/all.js)
+21:41:49	Error: 	"Connect Error" (-4) after 2 retries at link https://apis.google.com/js/plusone.js (from www.ironman3.com.au/)
+21:41:49	Error: 	"Not Found" (404) at link www.ironman3.com.au/index.html (from analytics.disneyinternational.com/analytics/wdigWebAnalytics.js)
+
+HTTrack Website Copier/3.48-19 mirror complete in 32 minutes 16 seconds : 294 links scanned, 261 files written (41631657 bytes overall) [41555308 bytes received at 21464 bytes/sec], 270452 bytes transferred using HTTP compression in 4 files, ratio 31%, 2.6 requests per connection
+(29 errors, 3 warnings, 0 messages)

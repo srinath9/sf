@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.fillet.com.br	TRUE	/	FALSE	1999999999	__cfduid	d3ea6780805d88283a1c29cb82040896f1410378456043
+

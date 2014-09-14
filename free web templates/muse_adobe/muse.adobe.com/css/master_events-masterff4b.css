@@ -1,0 +1,171 @@
+#u5606-4
+{
+	background-color: #F4F4F4;
+	position: fixed;
+}
+
+.H1---Scroll-Motion
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#buttonu19839
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #CCCCCC;
+	position: relative;
+	background: transparent url("../images/440-recreating.png") no-repeat left top;
+}
+
+#buttonu19839:hover
+{
+	background: #545454 url("../images/440-recreating.png") no-repeat left top;
+}
+
+#buttonu19839.ButtonSelected
+{
+	background: transparent url("../images/440-recreating.png") no-repeat left top;
+}
+
+.hidpi #buttonu19839,.hidpi #buttonu19839:hover,.hidpi #buttonu19839.ButtonSelected
+{
+	background-image: url("../images/440-recreating_2x.png");
+	background-size: 220px 145px;
+}
+
+#u19840-4
+{
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	background: #70A30F url("../images/composition-button-220x40.png") no-repeat left top;
+}
+
+#buttonu19839:hover #u19840-4
+{
+	background: #70A30F url("../images/composition-button-220x40.png") no-repeat left center;
+}
+
+#buttonu19839:active #u19840-4
+{
+	background: #4F712F url("../images/composition-button-220x40.png") no-repeat left bottom;
+}
+
+#u19836
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	background-color: #F5F5F5;
+	background-color: rgba(244, 244, 244, 0.9);
+	position: relative;
+	border-width: 0px 0px 1px;
+	-pie-background: rgba(244, 244, 244, 0.9);
+}
+
+#u19835,#u19841
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu19842
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #CCCCCC;
+	position: relative;
+	background: transparent url("../images/440-mobile.png") no-repeat left top;
+}
+
+#buttonu19842:hover
+{
+	background: #545454 url("../images/440-mobile.png") no-repeat left top;
+}
+
+#buttonu19842.ButtonSelected
+{
+	background: transparent url("../images/440-mobile.png") no-repeat left top;
+}
+
+.hidpi #buttonu19842,.hidpi #buttonu19842:hover,.hidpi #buttonu19842.ButtonSelected
+{
+	background-image: url("../images/440-mobile_2x.png");
+	background-size: 220px 145px;
+}
+
+#u19843-4
+{
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	background: #70A30F url("../images/composition-button-220x40.png") no-repeat left top;
+}
+
+#buttonu19842:hover #u19843-4
+{
+	background: #70A30F url("../images/composition-button-220x40.png") no-repeat left center;
+}
+
+#buttonu19842:active #u19843-4
+{
+	background: #4F712F url("../images/composition-button-220x40.png") no-repeat left bottom;
+}
+
+#buttonu19839.ButtonSelected #u19840-4,#buttonu19842.ButtonSelected #u19843-4
+{
+	background: #70A30F url("../images/composition-button-220x40.png") no-repeat left top;
+}
+
+#u19837-3,#u19838-9,#u19844-12
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u19844-6
+{
+	font-weight: 700;
+}
+
+#u19845
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	background-color: #F5F5F5;
+	background-color: rgba(244, 244, 244, 0.9);
+	position: relative;
+	border-width: 0px 0px 1px;
+	-pie-background: rgba(244, 244, 244, 0.9);
+}
+
+#u20666-4
+{
+	background: transparent url("../images/u20666-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(244, 244, 244, 0)),color-stop(40%, #F4F4F4));
+	background: -webkit-linear-gradient(top,rgba(244, 244, 244, 0) ,#F4F4F4 40%);
+	background: -o-linear-gradient(top,rgba(244, 244, 244, 0) ,#F4F4F4 40%);
+	background: linear-gradient(to bottom,rgba(244, 244, 244, 0) ,#F4F4F4 40%);
+	border-bottom-width: 1px;
+	border-style: solid;
+	border-color: #CCCCCC;
+	position: fixed;
+}
+
+#u20665
+{
+	position: fixed;
+}
+

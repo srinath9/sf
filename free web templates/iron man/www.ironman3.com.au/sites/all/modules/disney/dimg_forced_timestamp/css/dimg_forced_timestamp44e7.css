@@ -1,0 +1,44 @@
+#block-dimg-forced-timestamp-dimg-timewarp-popup.block-dimg-forced-timestamp {
+  display: none;
+  position: fixed; 
+  top: 30px; 
+  right: 150px; 
+  z-index: 999;
+  background-color: #FFFFFF;
+  border: 2px solid #000000;
+  padding: 10px;
+}
+
+.form-type-date-popup label {
+  background-color: #EEEEEE;
+}
+
+#block-dimg-forced-timestamp-dimg-timewarp-popup div.form-actions,
+#block-dimg-forced-timestamp-dimg-timewarp-popup input.form-submit {
+  margin: 5px 30px 0 0;
+}
+
+#block-dimg-forced-timestamp-dimg-timewarp.block-dimg-forced-timestamp {
+  display: inline-block;
+  margin-right: 7px;
+  float: right;
+}
+
+.form-item-forced-timestamp label {
+  float: left;
+  margin-right: 5px !important;
+  font-weight: normal;
+  color: #FFFFFF;
+  font-size: 0.846em !important;
+}
+
+#timewarp-submit {
+  display: none;
+}
+
+#edit-forced-timestamp {
+  -webkit-appearance: menulist;
+  background-image: none;
+}
+
+

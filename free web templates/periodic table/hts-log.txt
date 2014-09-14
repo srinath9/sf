@@ -1,0 +1,14 @@
+HTTrack3.48-19+htsswf+htsjava launched on Tue, 09 Sep 2014 22:43:25 at http://mrdoob.github.io/three.js/examples/css3d_periodictable.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P 144.16.192.217:8080 http://mrdoob.github.io/three.js/examples/css3d_periodictable.html -O1 "C:\Users\srinath\Google Drive\free web templates\periodic table" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:43:25	Warning: 	Cache: damaged cache, trying to repair
+22:43:25	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+22:43:25	Warning: 	Cache: error trying to open the cache
+
+HTTrack Website Copier/3.48-19 mirror complete in 7 seconds : 6 links scanned, 5 files written (460743 bytes overall) [138126 bytes received at 19732 bytes/sec], 466117 bytes transferred using HTTP compression in 6 files, ratio 29%, 2.0 requests per connection
+(No errors, 3 warnings, 0 messages)
